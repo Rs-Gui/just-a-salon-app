@@ -2,13 +2,12 @@
 
 ## Which ones am I working on now?
 
-
+   - Domain modeling (Client, Service, Appointment, Professional, etc.)
 
 ## Which ones will I start soon?
 
    ### Database creation
 
-   - Tables entity (Client, Service, Appointment, Professional)
    - Junction tables (Appointment_professional)
 
    ## Which ones are implemented?
